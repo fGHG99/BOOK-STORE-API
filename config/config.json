@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "010807",
+    "database": "book_store_api1",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 8888
+  },
+  "test": {
+    "username": "postgres",
+    "password": "010807",
+    "database": "book_store_api1",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 8888
+
+  },
+  "production": {
+    "username": "postgres",
+    "password": "010807",
+    "database": "book_store_api1",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 8888
+  }
+}
